@@ -1,0 +1,14 @@
+.\obj\mb.o: MODBUS_SLAVE\modbus\mb.c
+.\obj\mb.o: C:\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdlib.h
+.\obj\mb.o: C:\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\string.h
+.\obj\mb.o: .\MODBUS_SLAVE\port\port.h
+.\obj\mb.o: C:\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\assert.h
+.\obj\mb.o: C:\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\inttypes.h
+.\obj\mb.o: C:\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h
+.\obj\mb.o: .\MODBUS_SLAVE\modbus\include\mb.h
+.\obj\mb.o: .\MODBUS_SLAVE\modbus\include\mbport.h
+.\obj\mb.o: .\MODBUS_SLAVE\modbus\include\mbproto.h
+.\obj\mb.o: .\MODBUS_SLAVE\modbus\include\mbconfig.h
+.\obj\mb.o: .\MODBUS_SLAVE\modbus\include\mbframe.h
+.\obj\mb.o: .\MODBUS_SLAVE\modbus\include\mbfunc.h
+.\obj\mb.o: .\MODBUS_SLAVE\modbus\rtu\mbrtu.h

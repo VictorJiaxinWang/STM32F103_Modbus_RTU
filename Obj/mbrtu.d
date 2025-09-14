@@ -1,0 +1,13 @@
+.\obj\mbrtu.o: MODBUS_SLAVE\modbus\rtu\mbrtu.c
+.\obj\mbrtu.o: C:\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdlib.h
+.\obj\mbrtu.o: C:\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\string.h
+.\obj\mbrtu.o: .\MODBUS_SLAVE\port\port.h
+.\obj\mbrtu.o: C:\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\assert.h
+.\obj\mbrtu.o: C:\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\inttypes.h
+.\obj\mbrtu.o: C:\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h
+.\obj\mbrtu.o: .\MODBUS_SLAVE\modbus\include\mb.h
+.\obj\mbrtu.o: .\MODBUS_SLAVE\modbus\include\mbport.h
+.\obj\mbrtu.o: .\MODBUS_SLAVE\modbus\include\mbproto.h
+.\obj\mbrtu.o: MODBUS_SLAVE\modbus\rtu\mbrtu.h
+.\obj\mbrtu.o: .\MODBUS_SLAVE\modbus\include\mbframe.h
+.\obj\mbrtu.o: MODBUS_SLAVE\modbus\rtu\mbcrc.h

@@ -1,0 +1,12 @@
+.\obj\mbfuncinput.o: MODBUS_SLAVE\modbus\functions\mbfuncinput.c
+.\obj\mbfuncinput.o: C:\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdlib.h
+.\obj\mbfuncinput.o: C:\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\string.h
+.\obj\mbfuncinput.o: .\MODBUS_SLAVE\port\port.h
+.\obj\mbfuncinput.o: C:\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\assert.h
+.\obj\mbfuncinput.o: C:\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\inttypes.h
+.\obj\mbfuncinput.o: C:\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h
+.\obj\mbfuncinput.o: .\MODBUS_SLAVE\modbus\include\mb.h
+.\obj\mbfuncinput.o: .\MODBUS_SLAVE\modbus\include\mbport.h
+.\obj\mbfuncinput.o: .\MODBUS_SLAVE\modbus\include\mbproto.h
+.\obj\mbfuncinput.o: .\MODBUS_SLAVE\modbus\include\mbframe.h
+.\obj\mbfuncinput.o: .\MODBUS_SLAVE\modbus\include\mbconfig.h

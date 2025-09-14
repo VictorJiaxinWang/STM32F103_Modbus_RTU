@@ -1,0 +1,12 @@
+.\obj\mbfuncdisc.o: MODBUS_SLAVE\modbus\functions\mbfuncdisc.c
+.\obj\mbfuncdisc.o: C:\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdlib.h
+.\obj\mbfuncdisc.o: C:\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\string.h
+.\obj\mbfuncdisc.o: .\MODBUS_SLAVE\port\port.h
+.\obj\mbfuncdisc.o: C:\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\assert.h
+.\obj\mbfuncdisc.o: C:\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\inttypes.h
+.\obj\mbfuncdisc.o: C:\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h
+.\obj\mbfuncdisc.o: .\MODBUS_SLAVE\modbus\include\mb.h
+.\obj\mbfuncdisc.o: .\MODBUS_SLAVE\modbus\include\mbport.h
+.\obj\mbfuncdisc.o: .\MODBUS_SLAVE\modbus\include\mbproto.h
+.\obj\mbfuncdisc.o: .\MODBUS_SLAVE\modbus\include\mbframe.h
+.\obj\mbfuncdisc.o: .\MODBUS_SLAVE\modbus\include\mbconfig.h
